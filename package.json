@@ -1,16 +1,20 @@
 {
   "name": "kimyong",
   "version": "1.0.0",
+  "homepage": "https://hwangtrieu.github.io/kimyong/",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "honkit serve",
-    "build": "honkit build"
+    "build": "honkit build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "honkit": "^4.0.4"
   }
 }
