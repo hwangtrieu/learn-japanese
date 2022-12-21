@@ -5,16 +5,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "honkit serve",
-    "build": "honkit build",
-    "publish": "node_modules/.bin/gulp publish"
+    "build": "honkit build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-gh-pages": "^0.5.4",
-    "gulp-load-plugins": "^2.0.8",
     "honkit": "^4.0.4"
   }
 }
