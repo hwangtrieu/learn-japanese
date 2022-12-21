@@ -1,0 +1,17 @@
+{
+  "name": "kimyong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "honkit serve",
+    "build": "honkit build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "honkit": "^4.0.4"
+  }
+}
