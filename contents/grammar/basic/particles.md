@@ -41,6 +41,6 @@ Vì không có ngữ cảnh cụ thể nào ở đây, nên ta không thể hi�
 - フォン：リンは明日。<br/>
   Hương: Linh (kiểm tra vào) ngày mai.
 
-Ở ví dụ này, ta có thể thấy tính chung chung của chủ đề trong câu. Cách đề cập chủ đề trong câu có thể chỉ bất kì sự vật/sự việc nào, miễn là chúng có trong ngữ cảnh.
+Ở ví dụ này, ta có thể thấy chủ đề chung trong câu. Cách đề cập chủ đề trong câu có thể chỉ bất kì sự vật/sự việc nào, miễn là chúng có trong ngữ cảnh.
 
 Dù hỏi về bài kiểm tra của Linh, nhưng ta có thể thấy trong hai câu cuối của ví dụ không hề nhắc tới một chữ "kiểm tra" nào trong mỗi câu.
