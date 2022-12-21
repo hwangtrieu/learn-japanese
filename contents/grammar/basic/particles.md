@@ -25,20 +25,20 @@ Trong trường hợp này「は」đọc là `/wa/`, có chức năng xác đ�
 
 ### Ví dụ 2
 
-- フン：リンは明日？
+- フン：リンは明日？<br/>
   Hưng: Linh ... ngày mai?
-- フォン：ううん、明日じゃない。
+- フォン：ううん、明日じゃない。<br/>
   Hương: Không, không phải ngày mai.
 
 Vì không có ngữ cảnh cụ thể nào ở đây, nên ta không thể hiểu được cuộc hội thoại này. Chúng ta chỉ biết Linh có gì đó vào ngày mai, nên câu hỏi của Hưng có thể có bất kì ý hỏi liên quan tới ngày mai. Giả dụ, Hưng có thể đang hỏi về bài kiểm tra nếu nó có trong ngữ cảnh.
 
 ### Ví dụ 3
 
-- フォン：今日は試験だ。
+- フォン：今日は試験だ。<br/>
   Hương+ Hôm nay (là ngày) kiểm tra đó.
-- フン：リンは？
+- フン：リンは？<br/>
   Hưng: Linh (kiểm tra vào ngày nào)?
-- フォン：リンは明日。
+- フォン：リンは明日。<br/>
   Hương: Linh (kiểm tra vào) ngày mai.
 
 Ở ví dụ này, ta có thể thấy tính chung chung của chủ đề trong câu. Cách đề cập chủ đề trong câu có thể chỉ bất kì sự vật/sự việc nào, miễn là chúng có trong ngữ cảnh.
